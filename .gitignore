@@ -1,0 +1,16 @@
+# Secrets
+*.txt
+.env
+
+# Client documents
+*.docx
+*.xlsx
+*.pdf
+
+# Screenshots
+Ekran görüntüsü*
+*.png
+
+# OS
+.DS_Store
+Thumbs.db
